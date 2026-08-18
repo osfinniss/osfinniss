@@ -91,4 +91,4 @@ Les principaux projets sont disponibles dans mes repositories épinglés ci-dess
 
 **GitHub :** [osfinniss](https://github.com/osfinniss)
 
-**Portfolio :** bientôt disponible
+**Portfolio :** https://portfolio-oswald-khaki.vercel.app/
